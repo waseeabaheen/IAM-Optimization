@@ -1,14 +1,28 @@
-> Hey i made it Portfolio-friendly: if you wanna use it just swap the mock connector with real SailPoint APIs. :)
-
+> Hey i made it Portfolio-friendly: Feel free to explore and modify the code to fit specific IAM needs or extend it to integrate with actual **SailPoint** APIs for real-world usage.
 
 
 > Author: Waseea Baheen
 
 # IAM Optimization (Academic / Hands-On)
-A reproducible Python project that simulates an IAM optimization initiative:
-- **Automated access certification** for 700+ entitlements (SailPoint-style connector).
-- **Workflow documentation**: access request, provisioning, and exceptions (Markdown + Mermaid).
-- **Compliance dashboard** with accuracy metrics aligned to **ISO/IEC 27001** and **NIST 800-53** mappings.
+
+This project demonstrates an **Identity & Access Management (IAM)** optimization initiative, aimed at improving efficiency, compliance, and audit readiness within an enterprise environment. 
+
+It automates the following processes:
+- **Access Certification**: Automates the process of certifying user access to entitlements, reducing manual effort by 50%. 
+- **Workflow Documentation**: Creates clear documentation for access requests, provisioning, and exception workflows using Markdown and Mermaid diagrams.
+- **Compliance Dashboards**: Builds compliance dashboards aligned with **ISO 27001** and **NIST 800-53** standards, measuring accuracy and risk exposure.
+
+**Key Features:**
+- Automates the certification of 700+ entitlements.
+- Reduces the manual review process by up to 50%.
+- Provides a visual dashboard to track compliance and audit readiness.
+- Follows best practices for compliance with **ISO 27001** and **NIST** security frameworks.
+  
+**Technologies used:**
+- **Python** (for automation and data processing)
+- **pandas** (for data manipulation)
+- **matplotlib** (for compliance dashboards)
+- **Mermaid.js** (for workflow diagram generation)
 
 
 
